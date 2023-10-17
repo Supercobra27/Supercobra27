@@ -6,12 +6,4 @@ How's it going! I'm Supercobra27, or Cobra for short. Some people call me either
 and have decided that now would probably be a good time to teach myself how to program. I've wanted to for a long time and now well... I do have the time! I have a whole list of
 things I want to try to do and can't wait to see them come into fruition!
 
-<b>What am I interested in?</b>
-<ul>
-<li>Web Development [HTML, CSS, you know the drill]</li>
-<li>Spigot {Java} Plugin Development</li>
-<li>Data Science</li>
-<li>UI/UX Stuff</li>
-</ul>
-
-But yeah that's a basic summary for now. I'll try to keep this updated!
+But yeah that's a basic summary for now. I definitely will not update this ever again.
