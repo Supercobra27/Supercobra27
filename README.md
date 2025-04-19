@@ -9,4 +9,4 @@ Yes, that photo is my leg.
 ## Current Random Technical Interests
 - ASIC/RTL Design (I like my 3rd year project)
 - Data Engineering (cc. SkySweep/NodeAnalyzer)
-- [Insert Here]
+- Error everything else in STEM
